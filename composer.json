@@ -14,7 +14,7 @@
 		}
 	],
 	"require": {
-		"illuminate/support": "4.2.*",
+		"illuminate/database": "~5.0",
 		"league/fractal": "0.9.*"
 	},
 	"autoload": {
